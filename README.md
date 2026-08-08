@@ -57,11 +57,11 @@ vibe-coding with discipline: every "done" means verified.
 
 ## ❯ stats
 
-<p align="center">
-  <kbd>📦 8 public repos</kbd>
-  <kbd>⚡ 82 contributions / yr</kbd>
-  <kbd>🚀 3 projects in prod</kbd>
-</p>
+<div align="center">
+
+<kbd>📦 8 public repos</kbd> <kbd>⚡ 82 contributions / yr</kbd> <kbd>🚀 3 projects in prod</kbd>
+
+</div>
 
 ## ❯ currently
 
