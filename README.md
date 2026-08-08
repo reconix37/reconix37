@@ -14,7 +14,15 @@
   <tr>
     <td width="70%" valign="middle">
       👋 Hi, I'm <b>daniil.verkhovskyi</b> — aka <b>Gaplik</b>.<br><br>
-      AI/ML engineer from Prešov. Walking the long road, one careful commit at a time.<br><br>
+      Vibe coder, AI/ML engineer, product shipper, CEO, and professional ragebaiter.<br><br>
+      I build what I like — from mobile apps to agent harnesses.<br><br>
+      <b>Vibe-coded. Human-edited.</b><br><br>
+      🤖 Vibe coding • AI agents • automation<br>
+      ⌨️ Cursor • Codex CLI • Hermes • custom skills<br>
+      🎨 GPT Image 2 • Novita<br>
+      🧰 Tools I've worked with: I work with tools that are useful, convenient, and a little bit smart.<br><br>
+      Outside the terminal, I'm just a guy who likes trying new things — not just different Red Bull flavors, but different sports, hobbies, and collecting watched movies.<br><br>
+      Native Russian + Ukrainian speaker. English when necessary. Waiting for the neural chip to talk to anyone in any language.<br><br>
       <i>Always building. Sometimes sleeping. Never bored.</i>
     </td>
     <td width="30%" align="center" valign="middle">
