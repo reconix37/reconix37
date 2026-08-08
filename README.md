@@ -86,3 +86,7 @@ Open to work — looking for my next AI/ML role. Right now I'm finishing my thes
 </table>
 
 > Code is never done. It just gets slightly less embarrassing.
+
+<p align="center">
+  <img src="./assets/mascot-loop.gif" alt="mascot — mood loop" width="160">
+</p>
