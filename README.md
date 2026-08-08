@@ -4,6 +4,10 @@
   layout: Synax-style 70/30 tables, ronin art, mascot, kbd-stats
 -->
 
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Gaplik — ronin banner" width="100%">
+</p>
+
 ## ❯ who i am
 
 <table>
@@ -22,7 +26,7 @@
       <i>Always building. Sometimes sleeping. Never bored.</i>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/banner.jpg" alt="Gaplik — ronin banner" width="240">
+      <img src="./assets/readme-art.jpg" alt="ronin at the stream" width="220">
     </td>
   </tr>
 </table>
