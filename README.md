@@ -60,7 +60,7 @@ vibe-coding with discipline: every "done" means verified.
 <table align="center">
   <tr>
     <td><kbd>📦 8 public repos</kbd></td>
-    <td><kbd>⚡ 82 contributions / yr</kbd></td>
+    <td><kbd>⚡ ∞ contributions / yr</kbd></td>
     <td><kbd>🚀 3 projects in prod</kbd></td>
   </tr>
 </table>
