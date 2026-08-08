@@ -77,7 +77,7 @@ Open to work — looking for my next AI/ML role. Right now I'm finishing my thes
 ## ❯ connect
 
 <p align="center">
-  <img src="./assets/mascot-loop.gif" alt="mascot — mood loop" width="160">
+  <img src="./assets/mascot-3emotions.gif" alt="mascot — mood loop" width="160">
 </p>
 
 <table align="center">
