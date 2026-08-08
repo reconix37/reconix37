@@ -14,14 +14,11 @@
   <tr>
     <td width="70%" valign="middle">
       👋 Hi, I'm <b>daniil.verkhovskyi</b> — aka <b>Gaplik</b>.<br><br>
-      AI/ML engineer from Prešov. Vibe coder by nature, habit architect by choice, and a professional finisher of side quests.<br><br>
-      I build <b>small systems with a pulse</b>: Telegram bots that feel alive, habits that actually stick, and guardrails that keep RAG assistants polite even when strangers get creative.<br><br>
-      In the terminal: vibe-coding with discipline — every done means verified.<br>
-      Outside the terminal: black-and-white ronin energy — and whatever habit I'm currently testing on myself.<br><br>
+      AI/ML engineer from Prešov. Walking the long road, one careful commit at a time.<br><br>
       <i>Always building. Sometimes sleeping. Never bored.</i>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/mascot-idle.jpg" alt="mascot — idle" width="200">
+      <img src="./assets/ronin-meditate.jpg" alt="ronin — meditating" width="220">
     </td>
   </tr>
 </table>
@@ -30,14 +27,14 @@
 
 ```
 $ cat stack.log
-[OK] gen.ai.llm        — loaded
-[OK] ml.data           — loaded
-[OK] backend           — loaded
-[OK] frontend          — loaded
-[OK] quality.ops       — loaded
 
-$ cat vibe.txt
-vibe-coding with discipline: every "done" means verified.
+  ▸ gen.ai.llm   ▰▰▰▰▰▰▰▰▰▰  openrouter · novita · telegram-api
+  ▸ ml.data      ▰▰▰▰▰▰▰▰▰▰  python · chroma · sqlalchemy
+  ▸ backend      ▰▰▰▰▰▰▰▰▰▰  fastapi · postgresql · redis
+  ▸ frontend     ▰▰▰▰▰▰▰▰▰▰  react/ts · tailwind
+  ▸ quality.ops  ▰▰▰▰▰▰▰▰▰▰  docker · pytest · github-actions
+
+  boot: 5/5 modules wired — every "done" means verified
 ```
 
 ## ❯ projects
