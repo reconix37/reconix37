@@ -57,11 +57,13 @@ vibe-coding with discipline: every "done" means verified.
 
 ## ❯ stats
 
-<div align="center">
-
-<kbd>📦 8 public repos</kbd> <kbd>⚡ 82 contributions / yr</kbd> <kbd>🚀 3 projects in prod</kbd>
-
-</div>
+<table align="center">
+  <tr>
+    <td><kbd>📦 8 public repos</kbd></td>
+    <td><kbd>⚡ 82 contributions / yr</kbd></td>
+    <td><kbd>🚀 3 projects in prod</kbd></td>
+  </tr>
+</table>
 
 ## ❯ currently
 
@@ -69,11 +71,13 @@ Open to work — looking for my next AI/ML role. Right now I'm finishing my thes
 
 ## ❯ connect
 
-<p align="center">
-  <a href="https://portfolio-c3r.pages.dev"><img src="./assets/buttons/btn-portfolio.svg" alt="Portfolio"></a>
-  <a href="https://t.me/verkhovskyi"><img src="./assets/buttons/btn-telegram.svg" alt="Telegram"></a>
-  <a href="https://www.linkedin.com/in/daniil-verkhovskyi-237b44417/"><img src="./assets/buttons/btn-linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://github.com/reconix37"><img src="./assets/buttons/btn-github.svg" alt="GitHub"></a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://portfolio-c3r.pages.dev"><img src="./assets/buttons/btn-portfolio.svg" alt="Portfolio"></a></td>
+    <td><a href="https://t.me/verkhovskyi"><img src="./assets/buttons/btn-telegram.svg" alt="Telegram"></a></td>
+    <td><a href="https://www.linkedin.com/in/daniil-verkhovskyi-237b44417/"><img src="./assets/buttons/btn-linkedin.svg" alt="LinkedIn"></a></td>
+    <td><a href="https://github.com/reconix37"><img src="./assets/buttons/btn-github.svg" alt="GitHub"></a></td>
+  </tr>
+</table>
 
 > Code is never done. It just gets slightly less embarrassing.
