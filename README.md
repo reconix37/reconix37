@@ -1,7 +1,7 @@
 <!--
   reconix37 profile README
   style: terminal boot-log · Gaplik brand · only real numbers
-  layout: Synax-style 70/30 tables, ronin art, hanko seal accent
+  layout: Synax-style 70/30 tables, ronin art, mascot, kbd-stats
 -->
 
 <p align="center">
@@ -13,15 +13,15 @@
 <table>
   <tr>
     <td width="70%" valign="middle">
-      👋 Hi, I'm Dan — aka <b>Gaplik</b>.<br><br>
+      👋 Hi, I'm <b>daniil.verkhovskyi</b> — aka <b>Gaplik</b>.<br><br>
       AI/ML engineer from Prešov. Vibe coder by nature, habit architect by choice, and a professional finisher of side quests.<br><br>
-      I build small systems with a pulse: Telegram bots that feel alive, habits that actually stick, and guardrails that keep RAG assistants polite even when strangers get creative.<br><br>
+      I build <b>small systems with a pulse</b>: Telegram bots that feel alive, habits that actually stick, and guardrails that keep RAG assistants polite even when strangers get creative.<br><br>
       In the terminal: vibe-coding with discipline — every done means verified.<br>
       Outside the terminal: black-and-white ronin energy — and whatever habit I'm currently testing on myself.<br><br>
       <i>Always building. Sometimes sleeping. Never bored.</i>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/avatar.jpg" alt="daniil — ronin" width="200">
+      <img src="./assets/mascot-idle.jpg" alt="mascot — idle" width="200">
     </td>
   </tr>
 </table>
@@ -55,29 +55,17 @@ vibe-coding with discipline: every "done" means verified.
   </tr>
 </table>
 
-<details>
-<summary>study & experiments</summary>
-
-- `pca-from-scratch` — PCA from first principles, NumPy only
-- `react-cryptoTracker` — crypto portfolio tracker
-- `taskTracker` — task management app
-- `react-weatherApp` — weather app
-- `react-flashcards` — flashcards for spaced repetition
-- `lessons` — learning notes
-
-</details>
-
 ## ❯ stats
 
-| metric | value |
-|---|---|
-| public repos | 8 |
-| contributions (last year) | 82 |
-| projects in prod | 3 — HabitForge · AI Chat · SLE |
+<p align="center">
+  <kbd>📦 8 public repos</kbd>
+  <kbd>⚡ 82 contributions / yr</kbd>
+  <kbd>🚀 3 projects in prod</kbd>
+</p>
 
 ## ❯ currently
 
-Finishing the last chapter of my thesis at TUKE, keeping a Telegram bot alive past 3 AM, and testing every new habit on myself before I ship it to anyone else.
+Open to work — looking for my next AI/ML role. Right now I'm finishing my thesis at TUKE and tinkering with side projects that genuinely interest me. I don't chase trends; I build what I'd want to use myself — and if I say it's done, it's verified.
 
 ## ❯ connect
 
@@ -88,4 +76,4 @@ Finishing the last chapter of my thesis at TUKE, keeping a Telegram bot alive pa
   <a href="https://github.com/reconix37"><img src="./assets/buttons/btn-github.svg" alt="GitHub"></a>
 </p>
 
-> The ronin carries no master — only the discipline he built himself.
+> Code is never done. It just gets slightly less embarrassing.
