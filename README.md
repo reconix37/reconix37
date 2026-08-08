@@ -74,6 +74,10 @@ $ cat stack.log
 
 Open to work — looking for my next AI/ML role. Right now I'm finishing my thesis at TUKE and tinkering with side projects that genuinely interest me. I don't chase trends; I build what I'd want to use myself — and if I say it's done, it's verified.
 
+<p align="center">
+  <img src="./assets/mascot-loop.gif" alt="mascot — mood loop" width="160">
+</p>
+
 ## ❯ connect
 
 <table align="center">
@@ -86,7 +90,3 @@ Open to work — looking for my next AI/ML role. Right now I'm finishing my thes
 </table>
 
 > Code is never done. It just gets slightly less embarrassing.
-
-<p align="center">
-  <img src="./assets/mascot-loop.gif" alt="mascot — mood loop" width="160">
-</p>

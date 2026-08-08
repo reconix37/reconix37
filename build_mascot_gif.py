@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-"""Собирает петлю-гифку из 4 эмоций маскота Дани."""
+"""Собирает петлю-гифку из 3 эмоций маскота: happy → surprised → skeptical."""
 from PIL import Image
 
-emotions = ['idle', 'happy', 'surprised', 'skeptical']
+emotions = ['happy', 'surprised', 'skeptical']
 frames = []
 for e in emotions:
     im = Image.open(f'/root/portfolio/public/mascot/mascot-{e}.png').convert('RGBA')
     im = im.resize((220, 232), Image.LANCZOS)
     frames.append(im)
 
-# петля: idle → happy → surprised → skeptical → idle (замкнутая)
+# петля: happy → surprised → skeptical → happy (замкнутая)
 frames.append(frames[0])
 
 frames[0].save(
