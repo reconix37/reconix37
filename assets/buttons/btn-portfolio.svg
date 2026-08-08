@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="36" viewBox="0 0 123 36">
+  <rect x="0.5" y="0.5" width="122" height="35" rx="8" fill="#1F1D1A"/>
+  <g fill="#FFFFFF" transform="translate(12,9.0) scale(0.75)">
+    <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20 M2 12h20" stroke="currentColor" stroke-width="2"/>
+  </g>
+  <text x="38" y="23.0" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#FFFFFF">Portfolio</text>
+</svg>

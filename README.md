@@ -1,7 +1,15 @@
 <!--
   reconix37 profile README
   style: terminal boot-log · Gaplik brand · only real numbers
+  layout: Synax-style sections, ronin art, hanko seal accent
 -->
+
+<!-- BANNER: generated in GPT, 2:1, "Gaplik" calligraphy + ronin.
+     Заменить на реальный файл assets/banner.jpg когда будет готов. -->
+
+<p align="center">
+  <img src="./assets/readme-art.jpg" alt="ronin at the stream" width="460">
+</p>
 
 ```
 $ whoami
@@ -21,22 +29,22 @@ $ cat vibe.txt
 vibe-coding with discipline: every "done" means verified.
 ```
 
-<p align="center">
-  <img src="./assets/readme-art.jpg" alt="ronin at the stream" width="480">
-</p>
+## who I am
+
+AI/ML engineer from Prešov. Building guardrails so RAG assistants don't get hijacked. By day — thesis and boring math. By night — making Telegram bots that feel alive and tracking habits that actually stick.
 
 ## projects
 
-**HabitForge** — habit tracker that actually sticks. 111+ tests, 68 RLS migrations, 12 edge functions.
+**HabitForge** — the habit tracker that made me floss twice a day. 111+ tests, 68 RLS migrations, 12 edge functions.
 
-**AI Chat Platform** — Telegram Mini App with AI personas. 44 personas, 3 tiers, payments, own ledger.
+**AI Chat Platform** — Telegram Mini App where 44 personas argue with strangers for you. 3 tiers, own ledger, payments.
 
-**SLE Terminal** — terminal for forex data. 18K+ LOC, 11 REST routers, 5+ years of M5 data.
+**SLE Terminal** — five years of forex M5 data in a terminal I built because I refuse to watch charts by hand. 18K+ LOC, 11 REST routers.
 
 <details>
 <summary>study & experiments</summary>
 
-- `pca-from-scratch` — PCA implemented from first principles
+- `pca-from-scratch` — PCA from first principles, NumPy only
 - `react-cryptoTracker` — crypto portfolio tracker
 - `taskTracker` — task management app
 - `react-weatherApp` — weather app
@@ -50,4 +58,11 @@ vibe-coding with discipline: every "done" means verified.
 - building guardrails for RAG assistants (thesis)
 - making agents follow the harness: plan → verify → ship
 
-[![portfolio](https://img.shields.io/badge/portfolio-Gaplik-white?style=flat&labelColor=black)](https://portfolio-c3r.pages.dev) [![telegram](https://img.shields.io/badge/telegram-%40verkhovskyi-white?style=flat&labelColor=black)](https://t.me/verkhovskyi) [![linkedin](https://img.shields.io/badge/linkedin-daniil_verkhovskyi-white?style=flat&labelColor=black)](https://www.linkedin.com/in/daniil-verkhovskyi-237b44417/)
+<p align="center">
+  <a href="https://portfolio-c3r.pages.dev"><img src="./assets/buttons/btn-portfolio.svg" alt="Portfolio"></a>
+  <a href="https://t.me/verkhovskyi"><img src="./assets/buttons/btn-telegram.svg" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/daniil-verkhovskyi-237b44417/"><img src="./assets/buttons/btn-linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://github.com/reconix37"><img src="./assets/buttons/btn-github.svg" alt="GitHub"></a>
+</p>
+
+> Code is never done. It just gets slightly less embarrassing.
