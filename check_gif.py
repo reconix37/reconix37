@@ -3,7 +3,7 @@
 from PIL import Image
 import hashlib
 
-im = Image.open('/root/github-profile/assets/mascot-loop.gif')
+im = Image.open('/root/github-profile/assets/mascot-3emotions.gif')
 print('frames:', im.n_frames, 'loop:', im.info.get('loop'), 'duration:', im.info.get('duration'))
 
 hashes = []
