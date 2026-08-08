@@ -4,8 +4,9 @@
   layout: Synax-style sections, ronin art, hanko seal accent
 -->
 
-<!-- BANNER: generated in GPT, 2:1, "Gaplik" calligraphy + ronin.
-     Заменить на реальный файл assets/banner.jpg когда будет готов. -->
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Gaplik — ronin banner" width="100%">
+</p>
 
 <p align="center">
   <img src="./assets/readme-art.jpg" alt="ronin at the stream" width="460">
