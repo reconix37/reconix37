@@ -13,9 +13,12 @@
 <table>
   <tr>
     <td width="70%" valign="middle">
-      <b>AI/ML engineer from Prešov.</b><br><br>
-      Building guardrails so RAG assistants don't get hijacked. By day — thesis and boring math. By night — making Telegram bots that feel alive and tracking habits that actually stick.<br><br>
-      <code>$ whoami</code> → daniil.verkhovskyi — aka <b>Gaplik</b> · MSc thesis (RAG + guardrails) · ITVP, TUKE
+      👋 Hi, I'm Dan — aka <b>Gaplik</b>.<br><br>
+      AI/ML engineer from Prešov. Vibe coder by nature, habit architect by choice, and a professional finisher of side quests.<br><br>
+      I build small systems with a pulse: Telegram bots that feel alive, habits that actually stick, and guardrails that keep RAG assistants polite even when strangers get creative.<br><br>
+      In the terminal: vibe-coding with discipline — every done means verified.<br>
+      Outside the terminal: black-and-white ronin energy — and whatever habit I'm currently testing on myself.<br><br>
+      <i>Always building. Sometimes sleeping. Never bored.</i>
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="./assets/avatar.jpg" alt="daniil — ronin" width="200">
@@ -42,9 +45,9 @@ vibe-coding with discipline: every "done" means verified.
 <table>
   <tr>
     <td width="70%" valign="top">
-      <b>HabitForge</b> — the habit tracker that made me floss twice a day.<br>
-      <b>AI Chat Platform</b> — 44 personas argue with strangers for you, 3 tiers, own ledger.<br>
-      <b>SLE Terminal</b> — five years of forex M5 data, because I refuse to watch charts by hand.
+      <b>HabitForge</b> — the habit tracker that made me floss twice a day. Motivation is a liar; routines are not. 111+ tests, 68 RLS migrations, 12 edge functions — every habit, verified.<br><br>
+      <b>AI Chat Platform</b> — 44 personas, each one ready to argue with a stranger so you don't have to. Three tiers, one ledger, no shortage of opinions.<br><br>
+      <b>SLE Terminal</b> — 18K+ lines of code so I never have to watch a forex chart by hand again. Eleven REST routers, over five years of M5 data, and one very patient server.
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="./assets/readme-art.jpg" alt="ronin at the stream" width="220">
@@ -74,8 +77,7 @@ vibe-coding with discipline: every "done" means verified.
 
 ## ❯ currently
 
-- building guardrails for RAG assistants (thesis)
-- making agents follow the harness: plan → verify → ship
+Finishing the last chapter of my thesis at TUKE, keeping a Telegram bot alive past 3 AM, and testing every new habit on myself before I ship it to anyone else.
 
 ## ❯ connect
 
@@ -86,4 +88,4 @@ vibe-coding with discipline: every "done" means verified.
   <a href="https://github.com/reconix37"><img src="./assets/buttons/btn-github.svg" alt="GitHub"></a>
 </p>
 
-> Code is never done. It just gets slightly less embarrassing.
+> The ronin carries no master — only the discipline he built himself.
